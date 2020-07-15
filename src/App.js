@@ -8,6 +8,9 @@ function App() {
       <header>
         <a href="/">React</a>
       </header>
+      <main>
+        Product
+      </main>
     </div>
   );
 }
